@@ -74,14 +74,3 @@ This project is open-source. Feel free to contribute and improve it!
 
 ## 💡 Contributions Welcome!
 pen a pull request or raise issues if you want to enhance functionality. Happy coding! 🚀
-
-✅ **Now, commit your changes:**
-```bash
-git add .
-git commit -m "🚀 Initial Backend Setup: Django, PostgreSQL, DRF Authentication ✅"
-git push origin main  # or your branch name
-
-
-You’re all set! This README will make your repository professional and easy to understand. Let me know when you're ready for Milestone 2. 🚀🎯
-
-
